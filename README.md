@@ -72,6 +72,7 @@ I'm a **Computer Science undergraduate** passionate about launching my career in
 ## 📜 Certifications
 
 - Data Science Internship – Cognifyz Technologies (Mar–Apr 2025)
+- Python (basic) – HackerRank (2025) 
 - SQL (Intermediate & Advanced) – HackerRank (2025)
 - Web Development – Internshala (2023)
 - Basics of C and C++ – 6 Months Training (2022)
