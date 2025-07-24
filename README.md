@@ -22,7 +22,7 @@ I'm a **Computer Science undergraduate** passionate about launching my career in
 
 - **Bachelor of Technology in Computer Science**  
   Rajiv Gandhi College of Engineering Research and Technology  
-  _Expected June 2025_  
+  June 2025_  
   **CGPA:** 7.58 (7th Sem)
 
 - **Higher Secondary Education**  
